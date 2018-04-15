@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk
+FROM openjdk:9-jdk
 
 MAINTAINER Luis David Barrios Alfonso (cyberluisda@gmail.com)
 
