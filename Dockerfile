@@ -1,6 +1,6 @@
-FROM openjdk:latest
+FROM openjdk:8-jdk
 
-MAINTAINER Luis David Barrios Alfonso (yberluisda@gmail.com)
+MAINTAINER Luis David Barrios Alfonso (cyberluisda@gmail.com)
 
 RUN apt-get update \
   && apt-get update \
